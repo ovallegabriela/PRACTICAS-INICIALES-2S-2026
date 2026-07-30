@@ -17,5 +17,6 @@ Espero que este repositorio sirva como evidencia del trabajo realizado y del cre
 ---
 
 **Estudiante:** Jaqueline Gabriela Ovalle Aceituno 
+
 **Curso:** Prácticas Iniciales  
 **Semestre:** 2S-2026
