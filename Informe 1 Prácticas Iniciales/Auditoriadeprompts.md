@@ -1,3 +1,7 @@
+## Prompts e Inteligencia Artificial
+
+Un **prompt** es una instrucción o conjunto de indicaciones que se proporciona a una Inteligencia Artificial para obtener un resultado específico. Es importante ser claros y detallados al crear un prompt, ya que mientras más información sobre el objetivo, contexto y requisitos se proporcione, más precisa y adecuada será la respuesta generada por la IA.
+
 # Trifoliar
 # Inteligencia Artificial utilizada: ChatGPT
 
