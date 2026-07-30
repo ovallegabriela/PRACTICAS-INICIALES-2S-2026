@@ -31,9 +31,6 @@ Desarrollar un proceso de mantenimiento preventivo en una computadora portátil 
 
 - Implementar medidas de seguridad relacionadas con electricidad estática, manipulación de piezas y organización del área de trabajo.
 
-- Registrar el procedimiento realizado como referencia técnica para futuras intervenciones de mantenimiento.
-
----
 
 # 3. Conceptos fundamentales
 
@@ -177,12 +174,6 @@ La memoria RAM almacena temporalmente los datos y programas que están siendo ut
 
 Una mayor cantidad de memoria RAM permite ejecutar más aplicaciones simultáneamente.
 
-Características:
-
-- Memoria tipo SO-DIMM DDR4.
-- Instalación mediante ranura interna.
-
-
 # Unidad SSD M.2
 
 **Función:**
@@ -228,12 +219,6 @@ El disipador absorbe el calor producido por el procesador y lo transfiere hacia 
 El ventilador genera movimiento de aire para expulsar el calor acumulado dentro del equipo.
 
 Cuando acumula polvo puede disminuir su velocidad y provocar aumento de temperatura.
-
-# Tarjeta Wi-Fi/Bluetooth
-
-**Función:**
-
-Permite la conexión inalámbrica del equipo mediante redes Wi-Fi y dispositivos Bluetooth.
 
 # 7. Medidas de seguridad durante el mantenimiento
 
@@ -301,9 +286,7 @@ Antes de retirar piezas se debe identificar:
 - Disipador.
 - RAM.
 - SSD.
-- Tarjeta Wi-Fi.
 - Tarjeta madre.
-
 Esto evita errores durante el proceso.
 
 ## Paso 4: Desconexión de batería
@@ -351,7 +334,6 @@ No se debe aplicar demasiada pasta térmica, ya que puede provocar una mala tran
 Verificar:
 
 - Conexión correcta de batería.
-- Instalación adecuada del SSD.
 - Memoria RAM correctamente colocada.
 - Cables internos conectados.
 
