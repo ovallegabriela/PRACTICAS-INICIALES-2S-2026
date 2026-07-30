@@ -387,6 +387,3 @@ La correcta identificación y manipulación de los componentes internos de la Le
 ## Conclusión 3
 
 Aplicar buenas prácticas de mantenimiento, utilizar herramientas adecuadas y realizar revisiones periódicas contribuye significativamente a extender la vida útil del equipo y mantener un rendimiento eficiente durante mayor tiempo.
-
-
-- Tanenbaum, A. S., & Austin, T. (2013). *Structured Computer Organization*. Pearson.
