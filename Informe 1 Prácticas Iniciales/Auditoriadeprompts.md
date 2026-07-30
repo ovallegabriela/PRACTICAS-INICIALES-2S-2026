@@ -1,4 +1,5 @@
 # Trifoliar
+# Inteligencia Artificial utilizada: ChatGPT
 
 ## Prompt utilizado:
 
