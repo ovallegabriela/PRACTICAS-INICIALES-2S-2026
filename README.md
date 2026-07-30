@@ -14,8 +14,8 @@ El objetivo de este repositorio es documentar el proceso de aprendizaje, incluye
 
 Espero que este repositorio sirva como evidencia del trabajo realizado y del crecimiento adquirido a lo largo del curso. 
 
----
 **Universidad:** Universidad de San Carlos de Guatemala
+
 **Estudiante:** Jaqueline Gabriela Ovalle Aceituno 
 **Curso:** Prácticas Iniciales  
 **Semestre:** 2S-2026
